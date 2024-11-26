@@ -28747,7 +28747,7 @@ if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.yn.prototype={
 O(a){var s=null
-return new A.pB(B.Bl,"Flutter Demo",A.a2_(s,A.a3R(B.I,s,s,B.Bc),!0),s)}}
+return new A.pB(B.Bl,"Demo App",A.a2_(s,A.a3R(B.I,s,s,B.Bc),!0),s)}}
 A.pP.prototype={
 ah(){return new A.tB()}}
 A.tB.prototype={
